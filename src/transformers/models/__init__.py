@@ -349,6 +349,7 @@ if TYPE_CHECKING:
     from .unispeech_sat import *
     from .univnet import *
     from .upernet import *
+    from .usf_omega import *
     from .vaultgemma import *
     from .video_llava import *
     from .videomae import *
